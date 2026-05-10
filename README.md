@@ -1,1 +1,1 @@
-Gen-AI-Resume-Analyzer
+**Gen-AI-Resume-Analyzer-with-Google-Gemini**
